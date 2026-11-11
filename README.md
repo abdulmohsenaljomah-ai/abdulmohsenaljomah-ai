@@ -14,7 +14,6 @@
 - 🎓 **B.Sc. Computer Science — Data Science track**, Majmaah University · GPA **4.6 / 5.0** (Honors)
 - 🏦 **AI Engineering Co-op Trainee** at **Banque Saudi Fransi – AI Factory** (Aug 2026 – present): backend & REST APIs for an enterprise procurement platform, and LLM-powered document automation
 - 🧠 I build **practical AI systems**: RAG pipelines, LLM integrations, voice agents and workflow automation — with human review where it matters
-- 🗣️ Especially interested in **Arabic-first AI** and **conversational / voice agents**
 
 ### 🚀 Featured projects
 
