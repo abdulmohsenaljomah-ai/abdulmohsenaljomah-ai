@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer · Applied AI, LLMs & RAG · Riyadh, Saudi Arabia 🇸🇦</h3>
 
 <p align="center">
+  <a href="https://abdulmohsenaljomah-ai.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-34d3b4?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/abdulmohsen-aljomah-1398203a8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2ea44f" alt="Open to AI Engineer roles">
   <img src="https://img.shields.io/badge/Languages-Arabic%20%7C%20English-555" alt="Arabic | English">
